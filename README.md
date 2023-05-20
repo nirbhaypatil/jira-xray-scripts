@@ -2,6 +2,7 @@
 scripts to upload results in jira using xray 
 
 1. Command can be used from git bash to upload results in jira.
+     
      sh "sh import_results.sh "AB-1234" "sample test summary" "sample test plan description" "UAT"
 
 2. Command can be used in jenkins pipeline stage 
