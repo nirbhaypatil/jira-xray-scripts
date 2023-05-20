@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "project": {
+      "key": "AB"
+    },
+    "description": "test run description in TEST_ENVIRONMENT",
+    "summary": "test run summary for TEST_ENVIRONMENT",
+    "issuetype": {
+      "name": "Test Execution"
+    },
+    "components" : [
+      {
+        "name":"Component name"
+      }
+    ]
+  },
+  "xrayFields": {
+    "testPlanKey": "X-Y"
+  }
+
+}
